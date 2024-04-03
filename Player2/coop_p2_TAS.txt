@@ -5,25 +5,64 @@
 #Shooting: No candy: 24f Candy: 11f
 ##################################
 
-@248 H ..... G H  #Start Game
-%502
-! # LEVEL 1
-%37 [L +D] %43 #frame perfect startjump
-[L -D] %36  
-[L] %24
-K %24 K .. +D %21 [K -D A] #shoot enemies FREE TIME START
-%24 K +A %11 +L %42 -A %60 +D %10 -D %50 +D %50 -D %50 +D %48 -D %10 +A
-%149 -[A L] # End Of Level
-%100 
-!
-%37 [L +D] %43 #frame perfect startjump
-[L -D] %36  
-[L] %24
-K %24 K .. +D %21 [K -D A] #shoot enemies FREE TIME START
-%24 K +A %11 +L %42 -A %60 +D %10 -D %50 +D %50 -D %50 +D %48 -D %10 +A
-%149 -[A L] # End Of Level
-%100 
-!
-L %50 L %50 L 
-!
-L ... L .. K
+@758
+
+: # LEVEL 1
+%37
++A %90
+[-A D] @953 #FREE TIME START
+%4 #Wait few frames so bubble doesn't disappear
+[K +D] %45
++L %21 -D
+%350 -L
+%92 #End Of Level
+%100
+
+: # LEVEL 2
+%37 [L] %42
++A %10 [L] %41
+-A [L] %12 K +A %30 -A ..... K #FREE TIME START
++D %40 -D
+. K ... +D %16 +L %112 -[D L]
+%337 #EOL
+%100
+........
+: # LEVEL 3
+%37 +A %10 L %30
+-A %10 [L +A]
+%30 -A %18 [D K] %28 [A K] L %23 [D K] %100
+%110 L %5 +A %37 #FREE TIME START
+-A +D %250 -D A
+K %24 K %24 K %24 K %24 K %24 K %24 K %24 K %24
+%57
+#EOL
+%100
+
+: # LEVEL 4
+%37 +A %42
+-A L %36 L %25
+K %45 K +D
+%46 #FREE TIME START
+-D %68 K +L %443 -L
+#EOL
+%100
+
+: # LEVEL 5
+%37 [L +A] %43
+[-A L] %36 L %36 L K %36 K
++A %41 -A %50 L
+%161 #FREE TIME START
+[K L] %36 [+A K L] %20 -A %21 +D L %51 L %80
+-D K %24 K %24 K %24 K %24 K %20 K %177
+#EOL
+%100
+
+: # LEVEL 6
+%37 L %411 #FREE TIME START
+%512
+#EOL
+%100
+
+: # LEVEL 7
+%37 [L +A] %22
+.
