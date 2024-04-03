@@ -1,0 +1,29 @@
+#This is a comment. %XX to wait XX frames, @YY to wait to YYth frame . for single frame skip
+#Save state with ! (Takes 1 frame so change to . later)
+#DPAD: WASD A:L B:K START:H SELECT:G
+#Jumps: 5t: ns:36f s: 22 
+#Shooting: No candy: 24f Candy: 11f
+##################################
+
+@248 H ..... G H  #Start Game
+%502
+! # LEVEL 1
+%37 [L +D] %43 #frame perfect startjump
+[L -D] %36  
+[L] %24
+K %24 K .. +D %21 [K -D A] #shoot enemies FREE TIME START
+%24 K +A %11 +L %42 -A %60 +D %10 -D %50 +D %50 -D %50 +D %48 -D %10 +A
+%149 -[A L] # End Of Level
+%100 
+!
+%37 [L +D] %43 #frame perfect startjump
+[L -D] %36  
+[L] %24
+K %24 K .. +D %21 [K -D A] #shoot enemies FREE TIME START
+%24 K +A %11 +L %42 -A %60 +D %10 -D %50 +D %50 -D %50 +D %48 -D %10 +A
+%149 -[A L] # End Of Level
+%100 
+!
+L %50 L %50 L 
+!
+L ... L .. K
