@@ -82,7 +82,7 @@ K %23 -D K %24 K %24 K %24 K %20 K %139
 %100
 
 ! # LEVEL 9
-%36 +A %10 L %20 K %6 -A +L %30 -L %12e
+%36 +A %10 L %20 K %6 -A +L %30 -L %12
 A A %5 K %10 [L D] %13 K
 %20 +D %2 [-D A] K %17
 D D D D %10 K +D %46 -D %5 #FREE TIME START
