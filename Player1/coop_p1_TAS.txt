@@ -145,8 +145,45 @@ A D A D A D A D A D A D A D A D A D A D A D A D A D A D A D A D A D A D
 %100
 
 ! # LEVEL 14
+%38 +D %27 [-D +A] %14 -A
+%10 K +D %12 L %20 -D A D %3
+[K +D] %11 -D K [+A L] .. -A +D
+%19 K %11 K %3 #FREE TIME START
+-D +A %112 -A D %394
+#EOL
+%100
+
+! # LEVEL 15
+%38 [L D] %23
+L %21 D D D D A %27 L %15
+K +D %45 -D A K +D %20 L %40 -D %152 #FREE TIME START
+%378 +A %20 L %80 -A D
+%28
+#EOL
+%100
+
+! # LEVEL 16
+%38 [A +L K] %11 K %37 K %22 K %18 [+D K -L]
+%54 L -D %19 K L %10 K %12 #FREE TIME START
++A %85 -A D %422
+#EOL
+%100
+
+! # LEVEL 17
+%37 +D %52
+A K D %10 K -D +A %24
+-A +D %55 K %18 K -D +A #FREE TIME START
+%60 -A D
+%448
+#EOL
+%100
+
+! # LEVEL 18
 %38 L
 
 
-%1000
-.
+
+
+
+%10000
+....................................................................................................
