@@ -186,10 +186,24 @@ K %11 K -A +D %22
 %100
 
 ! # LEVEL 18
-%38 L
+%38 [L A]
+%17 L %10 +A %10 L -A %8 D +A %12 -A
+%62 +A %20 -A %65 K %60 +A %10 -A %30 L
+%20 +A %15 L -A . #FREE TIME START
+%321 L %22 +D %145 -D A %18
+#EOL
+%100
 
+! # LEVEL 19
+%38 +A
+%30 -A
+%18 K %197 K D %10 K %4 #FREE TIME START
+[D L] %27 [D L] %86 A %394
+#EOL
+%100
 
-
+! # LEVEL 20
+%38 [L A]
 
 
 %10000
