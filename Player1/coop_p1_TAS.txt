@@ -17,7 +17,6 @@ K %24 K .. +D %21 [K -D A] #FREE TIME START
 %149 -[A L] # End Of Level
 %100
 
-
 ! # LEVEL 2
 %37 [L] %42
 +D %10 [L] %41
@@ -196,6 +195,24 @@ A K D %10 K -D +A %24
 %100
 
 ! # LEVEL 20
+%38 [L +D]
+%21 L %70 [-D L] %11 [A K] %20 [-D L] %11 [A K]
+%85 K L +A %50 K %30
++L %10 K %10 -A %23 -L %7 K %11 +L %10 K %30 -L #FREE TIME START
+%15 L %18 +D %30 -D %155 +D %50 -D +A %90 -A D
+%144
+#EOL
+%100
+
+! # LEVEL 21
+%39 [L D]
+%25 L %18 L %21 L %18 L
+%205 L K %27 [A L] D %98 #UMBRELLA GET
+%290
+#EOL
+%100
+
+! # LEVEL 26
 %38 [L D]
 
 %10000
