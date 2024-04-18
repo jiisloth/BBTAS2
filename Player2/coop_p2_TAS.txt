@@ -281,6 +281,27 @@ K %11 K -A +D %22
 %100
 
 ! # LEVEL 34
+%38 L %23 L %18 L %18 [L D] A
+%3 K %12 +A %30 K %14 -A K %18 [A L]
+%23 [A L] . K %3 #FREE TIME START
++D %113 -D A
+[L D] A %27 L A D A D A D A D A D A D A D A D A D A D A D A D A D A D L
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D L
+D A D A D A D A D A D A D A D A D A D A D A D A D A D A L
+%276
+#EOL
+%100
+
+! # LEVEL 34
+%38 L .. K
++A %28 +L %27 -[A L]
+%7 L %7 K +D %9 -D A K D D D D D %6 K %10 +A K %28 #FREE TIME START
+%12 -A
+%497
+#EOL
+%100
+
+! # LEVEL 36
 %38 L
 
 %10000

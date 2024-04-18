@@ -252,7 +252,7 @@ A %3 K D %10 K %4 L %23 K %11 K [D L] %29 #FREE TIME START
 %15 +A %16 -A D
 %407
 #EOL
-%100e
+%100
 
 ! # LEVEL 32
 %36 L +A %4 -A %2 [D K] A
@@ -273,6 +273,27 @@ L %5 K .. #FREE TIME START
 %100
 
 ! # LEVEL 34
+%38 L +D
+%22 L -D %24 L %14 A A D L %7 [A K]
++D %8 -D A K +D %13 -D [A K] +D %15 -D
+[A L] D K %26 [D L] %24 #FREE TIME START
+%4 +A %63 -A D %46
+[A L] D %27 L A D A D A D A D A D A D A D A D A D A D A D A D A D A D L
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D L
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D L
+%277
+#EOL
+%100
+
+! # LEVEL 35
+%38 [+L +A K]
+%30 [-L -A] %12 L %21 [L +D] %6 K %11 K -D .. +D %7 K %9 -D A A A +D . L %29 #FREE TIME START
+-D +A %32 -A D
+%474
+#EOL
+%100
+
+! # LEVEL 36
 %38 L
 
 %10000
