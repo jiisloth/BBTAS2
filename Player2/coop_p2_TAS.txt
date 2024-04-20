@@ -345,7 +345,38 @@ K %11 K %9 +L %18 +A . -L
 %100
 
 ! # LEVEL 41
+%38 [+L D K] %11 K
+%39 +A %17 -L %9 K -A D D D D D %5 K
++A %10 [K L] %21 -A L %17 K ... +L %9 K
+%37 -L D K %4 #FREE TIME START
+%26 [D L] A
+%482
+#EOL
+%100
+
+! # LEVEL 42
+%38 [+L D K] %11 K
+%27 +A . -L %19 [+A L]
+%7 K %11 K %5 L %7 K -A %16 [A L] %3 K %3 #FREE TIME START
++D %110 -D A
+%397
+#EOL
+%100
+
+! # LEVEL 43
+%38 L +A %14 -A %3
+L %21 L +A %10 -A D %8 L .. K %19 K %11 K
+[L +A] %27 L %37 L %39 [-A +D] %25 #FREE TIME START
+%256 -D +A %17 -A +D %17 -D +A %15 -A
+%198
+#EOL
+%100
+
+! # LEVEL 44
 %38 L
+
+
+
 
 
 %10000
