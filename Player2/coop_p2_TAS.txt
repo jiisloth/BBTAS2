@@ -402,7 +402,54 @@ L %21 L +A %10 -A D %8 L .. K %19 K %11 K
 %100
 
 ! # LEVEL 47
+%38 K +A %24 +L ... K %17 -A A A A %6 D ... K %27 A K +D
+%13 K %19 -L [K -D] A A A %16 L D %22 [D L] %6 K %5 #FREE TIME START
+%76 A
+%433
+#EOL
+%100
+
+! # LEVEL 48
+%39 +A
+%27 L %21 [-A L] +A  %16 [L +A] %13 K %20 [-A +D]
+%29 L %26 L %15 K %11 K %5 #FREE TIME START
+-D A
+%508
+#EOL
+%100
+
+! # LEVEL 49
+%37 +A
+%19 L %15 -A %7 [+A L] %23 L %10 -A %20 L .. K %11 K %6 +D L
+%21 L -D A %449 #FREE TIME START
++A %5 L -A %82 L
+%419
+#EOL
+%100
+
+! # LEVEL 50
+%38 +A %25
+L %17 L %24 -A
+%50 K +D %10 -D K %5 [A L] %5 K +D %24 L %7 #FREE TIME START
+%95 -D A
+%413
+#EOL
+%100
+
+! # LEVEL 51
+%38 [L A] %23 [L A] %21 L +A
+%19 -A L +A %6 K %12 -A L %3 K %11 K
+%6 [L A] %27 +A %7 L -A %7  #FREE TIME START
++D %100 -D %25 +A %10 -A %25 +D %25 -D A
+%318
+#EOL
+%100
+
+! # LEVEL 52
 %38 L
+
+
+
 
 %10000
 ....................................................................................................
