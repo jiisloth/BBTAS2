@@ -439,16 +439,31 @@ L %17 L %24 -A
 ! # LEVEL 51
 %38 [L A] %23 [L A] %21 L +A
 %19 -A L +A %6 K %12 -A L %3 K %11 K
-%6 [L A] %27 +A %7 L -A %7  #FREE TIME START
+%6 [L A] %27 +A %7 L -A %7 #FREE TIME START
 +D %100 -D %25 +A %10 -A %25 +D %25 -D A
 %318
 #EOL
 %100
 
 ! # LEVEL 52
+%38 +A %11
+L %30 -A D %150 K +A
+%110 -A D %251 L %30 K %3 #FREE TIME START
+%126 L %20 K +L %15 K %48 -L A
+%295
+#EOL
+%100
+
+! # LEVEL 53
+%38 +A %49 K -A +D %9 K -D
++A %8 -A +D %26 K -D +A %3 L %8 K %4 #FREE TIME START
+%72 -A +D %55 L %77 -D A
+%301
+#EOL
+%100
+
+! # LEVEL 54
 %38 L
-
-
 
 
 %10000

@@ -437,8 +437,24 @@ L %17 L %24 -D
 %100
 
 ! # LEVEL 52
-%38 L
+%38 [+L K A] %15 K %23 +D %19 -L -D K %4 +L A
+%14 K %10 -L K +D %14 K L -D A %19
++D %20 -D %35 L %294 L %108 #FREE TIME START
+%200 L A D A D A D A D A D A D A D A D
+%293
+#EOL
+%100
 
+! # LEVEL 53
+%38 +D %53 K -D ....... +A %2 K -A
++D %10 -D +A %25 K -A +D %2 L %9 #FREE TIME START
+%78 -D +A %55 L %76 -A D
+%296
+#EOL
+%100
+
+! # LEVEL 54
+%38 L
 
 
 %10000
