@@ -574,14 +574,38 @@ K %11 K %8 #FREE TIME START
 %100
 
 ! # LEVEL 64
+%39 +D %90
+-D %16 K %11 K %11 K %11 K %11 K
+%40 +A %110 -A L %28 +D
+%20 L -D %16 L %211 L .. K ... #FREE TIME START
+%22 +A %40 -A +D %40 L %68 -D +A %3 -A +D %7 -D +A %6 -A . +D %7 -D +A %6
+-A . +D %7 -D +A %7 -A +D %7 -D +A %6 -A . +D %7 -D +A %6 -A . +D %7
+-D +A %7 -A +D %7 -D +A %6 -A . +D %5 -D L +A %109 -A D
+%84
+#EOL
+%100
+
+! # LEVEL 65
+%37 +D
+%8 L %20 L %16 -D %20 +D L
+. -D %7 K %18 [L A] D .. K +A
+%34 K %6 #FREE TIME START
+%30 -A D
+%478
+#EOL
+%100
+
+! # LEVEL 66
+%38 %5 L +D
+%64 -D K %11 K +D %50 L %18 K
+%16 -D [L A] D . K ... #FREE TIME START
+%10 +D %9 -D [L A] D
+%487
+#EOL
+%100
+
+! # LEVEL 67
 %38 L
-
-
-
-
-
-
-
 
 
 
