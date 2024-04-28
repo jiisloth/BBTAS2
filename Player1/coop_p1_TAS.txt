@@ -640,6 +640,26 @@ L -A D %26 [L A] D %26 [L A] D %15
 %100
 
 ! # LEVEL 70
+%38 +D
+%30 -D %22 K %5 [+D L]
+%24 -D A %21 K +A %10 K %3 #FREE TIME START
+#%184 [+A L] K %54 -A
+%54 -A [+L K] %11 K %90 -L +A %20 -A %74 D
+%254
+#EOL
+%100
+
+! # LEVEL 71
+%38 [+L A K]
+%11 K %46 K %22 K %30 +D
+%30 -L %17 L -D %44 K +D
+%21 K %14 L -D A #FREE TIME START
+%26 [L A] D
+%482
+#EOL
+%100
+
+! # LEVEL 72
 %38 L
 
 
