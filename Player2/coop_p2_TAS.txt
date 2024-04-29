@@ -666,7 +666,132 @@ L %44 L %16 -D A
 %100
 
 ! # LEVEL 72
-%38 L
+%38 [D +L K]
+%11 K %30 K %20 +A %10 -L %18 L .. -A . +D %18 -D +A .. K
+%11 K %11 K %16 L -A +D . #FREE TIME START
+%60 -D %11 +A %33 -A +D %34 -D A
+%366
+#EOL
+%100
+
+! # LEVEL 73
+%39 +A %28
+-A %22 K %5 +D %5 K %11 [+L K] -D %10 K
+%35 [-L +A] %34 -A +D %53 -D A
+%332 +A %50 #FREE TIME START
+%86 -A %93
++D %10 [+L K] -D %15 K %30 -L A
+%269
+#EOL
+%100
+
+! # LEVEL 74
+%37 [D L]
+%12 K %12 +L +A %13 K
+%32 -L K %11 K %32 #FREE TIME START
+%64 -A +D %103 L %60 -D %7 +A %6 -A +D %16 -D A
+%245
+#EOL
+%100
+
+! # LEVEL 75
+%38 [D +L K]
+%11 K %59 K %13 A K +A %25 -L K %30 #FREE TIME START
+-A +D %97 -D A
+%409
+#EOL
+%100
+
+! # LEVEL 76
+%38 +A %25
+-A +D %23 [K -D] +A %12 K %11 K %7 -A L .. K +A %18 #FREE TIME START
+%97 -A +D ... L %34 L %36 L -D A %21 [L D] A
+%310
+#EOL
+%100
+
+! # LEVEL 77
+%39 +A
+%50 K %11 K %4 -A %70 +A %20 K
+%90 -A . %62 D L . K %28 A A A A #FREE TIME START
+%132 +D %9 L -D A %26 [L A] D %27 [L D] A %27 [L A] D
+%27 [L D] A %27 [L A] D %27 [L D] A %27 [L A] D %27 [L D] A
+%27 [L A] D %27 [L D] A %27 [L A] D %27 [L D] A
+%18
+#EOL
+%100
+
+! # LEVEL 78
+%38 +A %62
+K %10 -A K +D %14 K -D %10 L +A %9 #FREE TIME START
+%10 -A L %21 L %26 L %27 L %26 L %27 L
+%26 L %27 L %26 L %27 L %26 L %27 L %26 L %27 L
+%26 L %27 L %26 L %27 L %26 L %9
+#EOL
+%100
+
+! # LEVEL 79
+%38 [+L K]
+%11 K %38 K %33 K -L
+%11 +L +A %20 . K . -A +A %15 K %4 -A . %10 +A %8 -A D %8 -L K +A
+%30 K %11 K %11 -A %7 +A %15 -A L . K %23 L ..... K %5 #FREE TIME START
++D %7 L %117 -D L %25 L %17
++A %24 -A +D %24 -D +A %24 -A +D %24 -D +A
+%24 -A +D %24 -D +A %24 -A +D %24 -D +A
+%24 -A +D %24 -D +A %24 -A +D %24 -D A
+%26
+#EOL
+%100
+
+! # LEVEL 80
+%38 +A ......... L -A
+%80 A A %359 [A L] %70 #FREE TIME START
++D %50 -D A
+%457
+#EOL
+%100
+
+! # LEVEL 81
+%37 [+L K]
+%11 K %42 K %50 +A %5 -L
+%42 K -A +D %25 -D
+%190 +D %10 +L -D %115 #FREE TIME START
+-L
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A L A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A L A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A L A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A L A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A L A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A L A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A L A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A
+#EOL
+%100
+
+! # LEVEL 81
+%38 [+L K]
+
+
+
+
+
+
+
+
+
+
+
 
 
 
