@@ -864,9 +864,60 @@ L A %15 K +L %24 +D %12 K %11 K -L %3 #FREE TIME START
 %100
 
 ! # LEVEL 90
-%38 L
+%38 [+L A K] %11 K
+%42 K %49 D %2 -L K %11 [K +D] %33 K %11 K %11 K %2 #FREE TIME START
+-D +A %35 K +L %35 K -A +D %5 -D %30 -L
+%396
+#EOL
+%100
 
+! # LEVEL 91
+%38 +D
+%26 K %8 -D %32 [D L] %9 A K D
+%16 [D L] .. K %37 #FREE TIME START
+%67
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A [D L] A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D [A L] D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A [D L] A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D [A L] D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A [D L] A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D [A L] D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A [D L] A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D A D A D A D
+A D A D A D A D A D A D A D A D A D A D A D [A L]
+#EOL
+%100
 
+! # LEVEL 92
+%38 [+D L]
+%25 L %131 L %27 -D [A L] +D
+%47 K %11 K -D %10 K %15 +A %11 L . K
+%18 -A [L D] A %44 #FREE TIME START
+%10 +D %100 -D %5 L +A %20 L %23 L %22 -A [D L] A
+%13 K %13 [A L] D %13 K %13 [D L] A %13 K %13 [A L] D %13 K %13 [D L] A
+%10 +D .. K %12 -D [A L] D %13 K %13 [D L] A %13 K %13 [A L] D %13 K %13 [D L] A
+%13 K %13 [A L] D %13 K %13 [D L] A %13 K %13 [A L] D %2
+#EOL
+%100
+
+! # LEVEL 93
+%38 +D %50 -D
+%285 +A +L %15 -A +D %4 -D +A %5 -A -L %48 #UMBRELLA GET
+%264
+#EOL
+%100
+
+! # LEVEL 98
+%37 [D L] %21 [+D L] %20 -D
+[A L] %23 L %5 K +D %22 K %11 K
+%11 K L
 
 
 
