@@ -915,10 +915,12 @@ A D A D A D A D A D A D A D A D A D A D A D [A L]
 %100
 
 ! # LEVEL 98
-%37 [D L] %21 [+D L] %20 -D
-[A L] %23 L %5 K +D %22 K %11 K
-%11 K L
-
+%37 [+L K] +D
+%15 K -D %7 +D %33 -D . [+D -L] %4 K %36 K %11 K
+%11 K
+#%11 K +D %10 -D %15 +D %28 -L [-D L] %4 A K +D
+#%23 K %11 K
+#%11 K L
 
 
 %10000
