@@ -858,8 +858,8 @@ L %27 L %27 L %8
 ! # LEVEL 89
 %38 L %21
 L A %15 K +L %24 +D %12 K %11 K -L %3 #FREE TIME START
--D +A %10 K +L %29 -A K %40 K %101 -L K +L %30 K %40 K %11 K %46 -L D
-%188
+-D +A %10 K +L %29 -A K %40 K %11 K %36 -L D
+%374
 #EOL
 %100
 
@@ -908,20 +908,31 @@ A D A D A D A D A D A D A D A D A D A D A D [A L]
 %100
 
 ! # LEVEL 93
-%38 +D %50 -D
-%285 +A +L %15 -A +D %4 -D +A %5 -A -L %48 #UMBRELLA GET
+%38 [+L A K]
+%38 +D %20 -L %33 -D L A ... K +D %16 K -D A A %8 K +D %10 K %2 #FREE TIME START
+-D +A %40 -A D
+%466
+#EOL
+%100
+
+! # LEVEL 94
+%38 [L A K] D
+%414 #UMBRELLA GET
 %264
 #EOL
 %100
 
-! # LEVEL 98
-%37 [+L K] +D
-%15 K -D %7 +D %33 -D . [+D -L] %4 K %36 K %11 K
-%11 K
-#%11 K +D %10 -D %15 +D %28 -L [-D L] %4 A K +D
-#%23 K %11 K
-#%11 K L
+! # LEVEL 99
+%37 [L +D K]
+%11 K %13 +L %49 [-L -D] %10
+L %10 A K +D %10 K %5 -D %5 [+L K +D] %11 K
+%40 -L %7 L -D A %58 K %20 K %3 #FREE TIME START
++A %95 [K +L] %11 K %60 -L %18 L %29 -A D
+%290
+#EOL
 
 
-%10000
-....................................................................................................
+! # Boss
+%27 [K L D] %24 +D K %22 +L %50 -L -D %79 [+A L] %36 L %36 [-A +D L] %26 -D %20 +D 
+%70
+%393 X

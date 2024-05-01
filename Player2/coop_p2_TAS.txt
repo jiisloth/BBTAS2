@@ -902,20 +902,33 @@ A D A D A D A D A D A D A D A D A D A D A D A
 %100
 
 ! # LEVEL 93
-%38 +A %50 -A
-%285 +D L %20 -D +A %10 -A %34 [A L] %10 #UMBRELLA GET
+%38 [+L D K]
+%38 +A %20 -L %33 -A L D ... K +A %16 K -A D D %8 K %14 #FREE TIME START
++D %28 -D A
+%479
+#EOL
+%100
+
+! # LEVEL 94
+%38 +A %28 -A
+%20 K +A %8 -A %30 +D %33 -D %30 +A %11 [-A L]
+%247 #UMBRELLA GET
 %264
 #EOL
 %100
 
-! # LEVEL 98
-%37 [+L K] +A
-%15 K %7 -A +A %33 -A . [+A -L] %4 K %36 K %11 K
-%11 K
+! # LEVEL 99
+%37 [L +A K]
+%11 K %13 +L %48 [-L -A] %11
+L %10 D K +A %10 K %5 -A %5 [+L K +A] %11 K
+%40 -L %5 L -A D %60 K %24 #FREE TIME START
++D %50 L %23 [K +L] %11 K %61 -D -L A
+%358
+#EOL
 
 
-
-
-
-%10000
-....................................................................................................
+! # Boss
+%27 [L A] D %47 [L A] D %35 [L D] A %35 [L A] D
+%28 +D %25 -D %9 K %11 K %11 K %11 K %11 K [+D L]
+%16 -D %80 A %37
+%393 X
